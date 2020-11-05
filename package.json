@@ -1,0 +1,22 @@
+{
+  "name": "reddit-image-viewer",
+  "version": "1.0.0",
+  "description": "In this exercise we'll create an image viewer for Reddit subs.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewwbolton/reddit-image-viewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewwbolton/reddit-image-viewer/issues"
+  },
+  "homepage": "https://github.com/matthewwbolton/reddit-image-viewer#readme"
+}
